@@ -1,0 +1,89 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+    background-color: rgb(35, 39, 42);
+    margin: 0;
+}
+
+.uhoh {
+    width: 50%;
+    height: 75%;
+    margin: 0;
+    padding-top: 20px;
+}
+
+.error {
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 50px;
+}
+
+.error a {
+    color:  red;
+    text-decoration: none;
+}
+
+.navbar {
+    background-color: rgb(30, 31, 34);
+    width: 100%;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    top: 0;
+    right: 0;
+    position: absolute;
+    overflow: hidden;
+}
+
+.ltag {
+    margin: 100px;
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 900;
+    font-size: 35px;
+    color: white;
+}
+
+.ltag p {
+    font-size: 30px;
+}
+
+.loganishuniverse {
+    background-color: red;
+    padding-top: 5px;
+    margin-top: -5px;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+
+}
+
+.loganishuniversetransition {
+    padding: 0;
+}
+
+.loganishuniverse h1 {
+    line-height: 0px;
+    color: white;
+    font-size: 100px;
+}
+
+.loganishuniverse h2 {
+    line-height: 0px;
+    font-size: 75px;
+}
+
+.loganishuniverse h3 {
+    color: white;
+}
+
+.loganishuniverse p {
+    color: white;
+}
+
+.loganishuniverse li {
+    color: white;
+}
